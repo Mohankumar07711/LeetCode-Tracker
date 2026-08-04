@@ -1,58 +1,67 @@
 # 🚀 LeetCode Tracker
 
 <p align="center">
-  <h3 align="center">Daily LeetCode Solutions in Java</h3>
+  <img src="https://img.shields.io/badge/LeetCode-Daily_Challenge-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/DSA-Problem_Solving-blue?style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About
+## 👋 About
 
-Welcome to my LeetCode Tracker!
+Welcome to my **LeetCode Tracker**!
 
-This repository contains my daily LeetCode solutions written in **Java**. My goal is to strengthen my **Data Structures & Algorithms**, improve problem-solving skills, and prepare for coding interviews through consistent practice.
+This repository contains my daily LeetCode solutions written in **Java**. My goal is to improve my **Data Structures & Algorithms**, strengthen my problem-solving skills, and prepare for technical interviews through consistent practice.
 
 ---
 
-## 📈 Progress
+## 📊 Progress
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 25 |
-| 🟡 Medium | 18 |
-| 🔴 Hard | 3 |
-| **Total** | **46** |
+| 🟢 Easy | 0 |
+| 🟡 Medium | 0 |
+| 🔴 Hard | 0 |
+| **Total** | **0** |
 
-> Update these numbers whenever you solve a problem.
+> Update the numbers as you solve more problems.
+
+---
+
+## 🎯 Goals
+
+- ✅ Solve at least one LeetCode problem every day.
+- ✅ Improve problem-solving skills.
+- ✅ Master Data Structures & Algorithms.
+- ✅ Prepare for coding interviews.
+- ✅ Reach 500+ solved problems.
 
 ---
 
 ## 🛠 Tech Stack
 
-- Java
-- Data Structures
-- Algorithms
-- LeetCode
+- ☕ Java
+- 📚 Data Structures
+- 🧠 Algorithms
+- 💻 LeetCode
 
 ---
 
-## 📅 Daily Goal
+## 📂 Repository Structure
 
-- ✅ Solve at least one LeetCode problem every day.
-- ✅ Write clean and optimized Java solutions.
-- ✅ Learn a new algorithm or data structure.
-
----
-
-## 📂 Folder Structure
-
-Easy/
-Medium/
-Hard/
+```text
+leetcode-tracker/
+│
+├── Easy/
+├── Medium/
+├── Hard/
+└── README.md
+```
 
 ---
 
-## ⭐ Topics Covered
+## 📚 Topics Covered
 
 - Arrays
 - Strings
@@ -61,23 +70,64 @@ Hard/
 - Queue
 - Linked List
 - Trees
+- Binary Trees
 - Binary Search
 - Recursion
 - Dynamic Programming
 - Graphs
-- Greedy
+- Greedy Algorithms
 - Sliding Window
 - Two Pointers
 - Backtracking
 
 ---
 
-## 📊 Repository Stats
+## 🏆 Milestones
 
-- Language: Java
-- Platform: LeetCode
-- Goal: 500+ Problems
+- [ ] 50 Problems
+- [ ] 100 Problems
+- [ ] 200 Problems
+- [ ] 300 Problems
+- [ ] 500 Problems
+- [ ] 1000 Problems
 
 ---
 
-Happy Coding! 🚀
+## 📈 GitHub Stats
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Mohankumar07711/leetcode-tracker?style=for-the-badge)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Mohankumar07711/leetcode-tracker?style=for-the-badge)
+
+![GitHub stars](https://img.shields.io/github/stars/Mohankumar07711/leetcode-tracker?style=for-the-badge)
+
+---
+
+## 📅 Daily Progress
+
+| Date | Problem | Difficulty | Status |
+|------|---------|------------|--------|
+| YYYY-MM-DD | Problem Name | Easy/Medium/Hard | ✅ |
+
+---
+
+## ⭐ Sample Solution Format
+
+Each solution contains:
+
+- Problem Number
+- Problem Name
+- Difficulty
+- Problem Link
+- Approach
+- Time Complexity
+- Space Complexity
+- Java Solution
+
+---
+
+## 🚀 Keep Learning
+
+> "Consistency beats intensity."
+
+Happy Coding! ⭐
