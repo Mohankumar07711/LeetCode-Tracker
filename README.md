@@ -131,3 +131,11 @@ Each solution contains:
 > "Consistency beats intensity."
 
 Happy Coding! ⭐
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Mohankumar07711/LeetCode-Tracker/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
