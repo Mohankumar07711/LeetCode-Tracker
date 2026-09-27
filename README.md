@@ -138,4 +138,16 @@ Happy Coding! ⭐
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mohankumar07711/LeetCode-Tracker/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mohankumar07711/LeetCode-Tracker/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mohankumar07711/LeetCode-Tracker/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mohankumar07711/LeetCode-Tracker/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
